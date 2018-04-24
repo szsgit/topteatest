@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.ai.toptea-sysm-pm-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.ai.toptea-sysm-pm-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
